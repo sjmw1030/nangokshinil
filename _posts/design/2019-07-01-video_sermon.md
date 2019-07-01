@@ -10,6 +10,13 @@ categories:
     - design
 
 iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='560' height='315' src='//www.youtube.com/embed/DILz8P0M5MQ' frameborder='0' allowfullscreen></iframe>"
 video:
     embedURL: "https://www.youtube.com/embed/DILz8P0M5MQ"
     contentURL: "https://www.youtube.com/watch?v=DILz8P0M5MQ"
