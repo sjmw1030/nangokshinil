@@ -6,6 +6,18 @@
   url: "/getting-started/"
   side: left
 
+- title: "설교영상"
+  side: left
+  dropdown:
+  - title: "주일예배"
+    url: "/design/video_sermon/"
+  - title: "수요예배"
+    url: "/design/video_sermon/"
+  - title: "금요예배"
+    url: "/design/video_sermon/"
+  - title: "특강설교"
+    url: "/design/video_sermon/"
+    
 - title: "Templates"
   url: "/design/"
   side: left
