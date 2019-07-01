@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: "창립50주년 감사 임직예식"
-subheadline: "2019년 4월 28일"
+subheadline: "[주일설교] 2019년 4월 28일"
 teaser: "강형원 목사 '우리교회, 좋은일꾼' 제하로 설교"
 tags:
     - post format
